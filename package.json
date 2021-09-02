@@ -1,0 +1,28 @@
+{
+  "name": "xnotify",
+  "version": "1.0.21",
+  "description": "Creates notifications for your app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codelox1/notify.git"
+  },
+  "keywords": [
+    "notifications",
+    "notification",
+    "notify",
+    "js",
+    "notifications",
+    "js",
+    "notify"
+  ],
+  "author": "Karl G. Zafiris",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codelox1/notify/issues"
+  },
+  "homepage": "https://github.com/codelox1/notify#readme"
+}

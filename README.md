@@ -1,14 +1,14 @@
-# Notify 
-Generate a notification for your project. You may use this 
+# XNotify 
+Generate notifications for your project. You may use this 
 for async reporting onto your app or any other kind of reporting functionality.
 
 # Installation 
-`npm install notify --save`
+`npm install xnotify --save`
 
 ```
-import { notify } from 'notify';
+import { xnotify } from 'xnotify';
 
-notify('Your notification text')
+xnotify('Your notification text')
 ```
 
 ## Options 

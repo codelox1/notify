@@ -10,7 +10,7 @@
  * @param {boolean} state 
  * @param {string} container 
  */
-function notify( innerText='This is a test notification! Click to dismiss me!', 
+function xnotify( innerText='This is a test notification! Click to dismiss me!', 
                  stack=false, borderColor='#eee', 
                  fontColor='slateblue', background='rgb(227, 224, 250)', 
                  width='50vw', fontSize='18px', state=true, container='body',){
@@ -61,4 +61,4 @@ function notify( innerText='This is a test notification! Click to dismiss me!',
     } 
 }
 
-module.exports.notify = notify
+module.exports.xnotify = xnotify
